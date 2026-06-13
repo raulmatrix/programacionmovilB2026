@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tipoHeroe">
+        <item>Magia</item>
+        <item>Volador</item>
+        <item>Tecnologico</item>
+        <item>Fuerza</item>
+    </string-array>
+
+</resources>

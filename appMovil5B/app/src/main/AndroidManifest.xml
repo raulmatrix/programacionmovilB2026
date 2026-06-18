@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppMovil5B">
         <activity
+            android:name=".ListaHeroes"
+            android:exported="false" />
+        <activity
             android:name=".HeroeRecibido"
             android:exported="false" />
         <activity
